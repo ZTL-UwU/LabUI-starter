@@ -9,9 +9,8 @@ npm i
 npm run dev
 ```
 
-##
+## Commands
 | Command   | Description                                   |
 | :-------- | :-------------------------------------------- |
 | `dev`     | Development (port 8080)                       |
 | `build`   | Build your app for production!                |
-| `preview` | Preview the built version of your app locally |
